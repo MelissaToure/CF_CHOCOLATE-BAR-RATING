@@ -20,5 +20,5 @@
 
 **Deliverables** 
 
-- Project overview report [Here](file:///Users/melissatoure/Documents/CF%20Data%20analytics%20program/Offical%20tasks%20reviewed%20/Data%20Immersion/Assigment%20off/Achievement%206%20/6.7/Chocolate%20Bar%20Ratings%20Overview.pdf)
+- Project overview report
 - Tableau presentation [Here](https://public.tableau.com/app/profile/m.lissa.tour./viz/Chocolatebaranalysis/Story1?publish=yes)
