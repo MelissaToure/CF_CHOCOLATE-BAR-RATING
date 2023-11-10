@@ -2,7 +2,7 @@
 
 **Introdution**
 
-> The project explore the data set of the website ['Flavor of cacao']([url](https://flavorsofcacao.com/chocolate_database.html)https://flavorsofcacao.com/chocolate_database.html) and which was extracted from [Kaggle](https://www.kaggle.com/datasets/nyagami/chocolate-bar-ratings-2022). The aim was to conduct a descriptive and exploratory analyses to unveil patterns or trends, and information about the data set. Research were conducted with Python, excel and Tableau for data and visualization analyses. 
+> The project explore the data set of the website [Flavor of cacao]([url](https://flavorsofcacao.com/chocolate_database.html)https://flavorsofcacao.com/chocolate_database.html) and which was extracted from [Kaggle](https://www.kaggle.com/datasets/nyagami/chocolate-bar-ratings-2022). The aim was to conduct a descriptive and exploratory analyses to unveil patterns or trends, and information about the data set. Research were conducted with Python, excel and Tableau for data and visualization analyses. 
 
 **Hypothese** 
 
